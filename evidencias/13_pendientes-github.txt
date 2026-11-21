@@ -1,0 +1,17 @@
+PUBLICACIÓN EN GITHUB
+=====================
+
+El repositorio local está listo y la rama principal se llama `main`.
+
+Para completar la publicación:
+
+1. Crear en GitHub un repositorio vacío llamado `taller-git-1`.
+2. Ejecutar, reemplazando la URL:
+
+   git remote set-url origin https://github.com/TU-USUARIO/taller-git-1.git
+   git push -u origin main
+
+3. Guardar capturas de:
+   - `git remote -v` y el resultado de `git push`.
+   - La página principal del repositorio mostrando el README.
+   - La pestaña de commits mostrando al menos cuatro commits.
