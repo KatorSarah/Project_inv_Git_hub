@@ -1,0 +1,11 @@
+CHECKLIST DEL TALLER
+====================
+[OK] Repositorio local inicializado
+[OK] README creado y confirmado
+[OK] Cambios comparados con git diff
+[OK] Más de 4 commits creados
+[OK] Historial visual generado
+[OK] git restore demostrado
+[OK] git restore --staged demostrado
+[PENDIENTE] Conectar con una cuenta real de GitHub y ejecutar git push
+[PENDIENTE] Captura visual del repositorio y de la pestaña Commits en GitHub

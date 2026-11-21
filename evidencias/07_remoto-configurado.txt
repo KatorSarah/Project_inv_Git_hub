@@ -1,0 +1,6 @@
+$ git remote -v
+origin	https://github.com/TU-USUARIO/taller-git-1.git (fetch)
+origin	https://github.com/TU-USUARIO/taller-git-1.git (push)
+
+
+Nota: reemplazar TU-USUARIO por el usuario real antes de hacer push.

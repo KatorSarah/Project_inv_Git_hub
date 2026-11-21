@@ -1,0 +1,5 @@
+$ git log --oneline --graph
+* 3b6c837 (HEAD -> master) Actualiza notas del taller
+* 8f36c69 Agrega notas del taller
+* 586fe2b Agrega descripcion e instalacion al README
+* 66c3a1b Primer commit: agrega README

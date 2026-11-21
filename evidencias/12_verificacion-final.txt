@@ -1,0 +1,14 @@
+$ git status
+En la rama master
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+	evidencias/
+
+no hay nada agregado al commit pero hay archivos sin seguimiento presentes (usa "git add" para hacerles seguimiento)
+
+$ git log --oneline --graph
+* c882800 (HEAD -> master) Documenta comandos y publicacion
+* 3b6c837 Actualiza notas del taller
+* 8f36c69 Agrega notas del taller
+* 586fe2b Agrega descripcion e instalacion al README
+* 66c3a1b Primer commit: agrega README

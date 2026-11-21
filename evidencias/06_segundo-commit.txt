@@ -1,0 +1,2 @@
+$ git log -1 --oneline
+586fe2b Agrega descripcion e instalacion al README

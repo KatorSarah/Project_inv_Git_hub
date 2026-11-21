@@ -1,0 +1,8 @@
+$ git add notas.txt
+$ git status --short
+M  notas.txt
+?? evidencias/
+$ git restore --staged notas.txt
+$ git status --short
+ M notas.txt
+?? evidencias/

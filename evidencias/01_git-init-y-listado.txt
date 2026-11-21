@@ -1,0 +1,9 @@
+$ git init
+Reinicializado el repositorio Git existente en /home/katorsarah/Taller Git 1/.git/
+
+$ ls -la
+total 16
+drwxrwxr-x  4 katorsarah katorsarah 4096 nov 21 06:40 .
+drwxr-x--- 41 katorsarah katorsarah 4096 nov 21 06:40 ..
+drwxrwxr-x  2 katorsarah katorsarah 4096 nov 21 06:40 evidencias
+drwxrwxr-x  7 katorsarah katorsarah 4096 nov 21 06:40 .git
