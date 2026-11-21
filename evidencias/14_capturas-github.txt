@@ -1,0 +1,17 @@
+CAPTURAS DE GITHUB
+==================
+
+Se generaron estas capturas mediante Chromium en modo headless:
+
+- `github-repositorio.png`: página pública del repositorio.
+- `github-commits.png`: URL de commits solicitada.
+
+Estado observado al tomar las capturas: GitHub muestra `This repository is empty`.
+La publicación no pudo ejecutarse desde este entorno porque GitHub solicita autenticación.
+
+Para terminar:
+
+    git push -u origin main
+
+Después de que el push termine correctamente, volver a tomar las capturas para que
+muestren el README y los commits.
