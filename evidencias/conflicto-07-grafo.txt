@@ -1,0 +1,15 @@
+*   e12953d (HEAD -> main) Resuelve conflicto entre rama-python y rama-javascript
+|\  
+| * 9a6d5e0 (rama-javascript) Actualiza lenguaje favorito a JavaScript
+* | 13e3aa4 (rama-python) Actualiza lenguaje favorito a Python 3.12
+|/  
+* e782b7b Commit inicial: agrega lenguaje.txt
+* 0417bd9 (origin/main) Actualiza capturas del repositorio publicado
+* 145fbf8 Agrega capturas del repositorio de GitHub
+* 62f93ef Prepara instrucciones de publicacion
+* 003c440 Agrega evidencias del taller
+* c882800 Documenta comandos y publicacion
+* 3b6c837 Actualiza notas del taller
+* 8f36c69 Agrega notas del taller
+* 586fe2b Agrega descripcion e instalacion al README
+* 66c3a1b Primer commit: agrega README

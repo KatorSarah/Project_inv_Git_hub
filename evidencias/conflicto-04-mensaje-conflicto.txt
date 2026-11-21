@@ -1,0 +1,3 @@
+Auto-fusionando lenguaje.txt
+CONFLICTO (contenido): Conflicto de fusión en lenguaje.txt
+Fusión automática falló; arregle los conflictos y luego realice un commit con el resultado.

@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Lenguaje favorito: Python 3.12
+=======
+Lenguaje favorito: JavaScript
+>>>>>>> rama-javascript

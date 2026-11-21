@@ -1,0 +1,21 @@
+En la rama main
+Tu rama está adelantada a 'origin/main' por 2 commits.
+  (usa "git push" para publicar tus commits locales)
+
+Tienes rutas no fusionadas.
+  (arregla los conflictos y ejecuta "git commit"
+  (usa "git merge --abort" para abortar la fusion)
+
+Rutas no fusionadas:
+  (usa "git add <archivo>..." para marcar una resolución)
+	modificados por ambos:  lenguaje.txt
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+	evidencias/conflicto-02-ramas.txt
+	evidencias/conflicto-03-merge-python.txt
+	evidencias/conflicto-04-mensaje-conflicto.txt
+	evidencias/conflicto-05-status.txt
+	evidencias/lenguaje-con-marcas.txt
+
+sin cambios agregados al commit (usa "git add" y/o "git commit -a")

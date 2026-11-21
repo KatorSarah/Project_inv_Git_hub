@@ -1,0 +1,15 @@
+En la rama main
+Tu rama está adelantada a 'origin/main' por 4 commits.
+  (usa "git push" para publicar tus commits locales)
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+	evidencias/conflicto-02-ramas.txt
+	evidencias/conflicto-03-merge-python.txt
+	evidencias/conflicto-04-mensaje-conflicto.txt
+	evidencias/conflicto-05-status.txt
+	evidencias/conflicto-06-status-final.txt
+	evidencias/lenguaje-con-marcas.txt
+	evidencias/lenguaje-resuelto.txt
+
+no hay nada agregado al commit pero hay archivos sin seguimiento presentes (usa "git add" para hacerles seguimiento)
